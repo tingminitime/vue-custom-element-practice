@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-([ 老子學不動啦 ] #5 Web Component by Vite & Vue)[https://www.youtube.com/watch?v=pN7fC2vb1Ig]
+[[ 老子學不動啦 ] #5 Web Component by Vite & Vue](https://www.youtube.com/watch?v=pN7fC2vb1Ig)
 
 ### Installing
 
